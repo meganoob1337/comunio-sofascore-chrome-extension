@@ -1,0 +1,5 @@
+https://www.sofascore.com/api/v1/unique-tournament/1/season/56953/standings/total   (get all rounds)
+
+https://www.sofascore.com/api/v1/team/<teamid>/performance
+
+https://www.sofascore.com/api/v1/event/<eventid>/lineups

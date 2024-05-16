@@ -1,0 +1,719 @@
+[
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "shortName": "Germany",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 455813,
+    "nameCode": "GER",
+    "ranking": 16,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4711,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#000000",
+      "text": "#000000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "ألمانيا",
+        "ru": "Германия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Hungary",
+    "slug": "hungary",
+    "shortName": "Hungary",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 60485,
+    "nameCode": "HUN",
+    "ranking": 26,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4709,
+    "teamColors": {
+      "primary": "#c61e29",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "المجر",
+        "ru": "Венгрия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Scotland",
+    "slug": "scotland",
+    "shortName": "Scotland",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 52160,
+    "nameCode": "SCO",
+    "ranking": 39,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4695,
+    "teamColors": {
+      "primary": "#00005e",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "إسكتلندا",
+        "ru": "Шотландия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "shortName": "Switzerland",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 117556,
+    "nameCode": "SUI",
+    "ranking": 19,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4699,
+    "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "سويسرا",
+        "ru": "Швейцария"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Albania",
+    "slug": "albania",
+    "shortName": "Albania",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 36282,
+    "nameCode": "ALB",
+    "ranking": 66,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4690,
+    "teamColors": {
+      "primary": "#e41e20",
+      "secondary": "#000000",
+      "text": "#000000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "ألبانيا",
+        "ru": "Албания"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Croatia",
+    "slug": "croatia",
+    "shortName": "Croatia",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 336302,
+    "nameCode": "CRO",
+    "ranking": 10,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4715,
+    "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "كرواتيا",
+        "ru": "Хорватия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Italy",
+    "slug": "italy",
+    "shortName": "Italy",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 447093,
+    "nameCode": "ITA",
+    "ranking": 9,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4707,
+    "teamColors": {
+      "primary": "#0066ff",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "إيطاليا",
+        "ru": "Италия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Spain",
+    "slug": "spain",
+    "shortName": "Spain",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 549951,
+    "nameCode": "ESP",
+    "ranking": 8,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4698,
+    "teamColors": {
+      "primary": "#cc0000",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "إسبانيا",
+        "ru": "Испания"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Denmark",
+    "slug": "denmark",
+    "shortName": "Denmark",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 116493,
+    "nameCode": "DEN",
+    "ranking": 21,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4476,
+    "teamColors": {
+      "primary": "#cc0000",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "الدانمارك",
+        "ru": "Дания"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "England",
+    "slug": "england",
+    "shortName": "England",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 560725,
+    "nameCode": "ENG",
+    "ranking": 4,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4713,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#cc0000",
+      "text": "#cc0000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "إنجلترا",
+        "ru": "Англия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Serbia",
+    "slug": "serbia",
+    "shortName": "Serbia",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 137154,
+    "nameCode": "SRB",
+    "ranking": 33,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 6355,
+    "teamColors": {
+      "primary": "#ff0033",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "جمهورية صربيا",
+        "ru": "Сербия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "shortName": "Slovenia",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 29084,
+    "nameCode": "SLO",
+    "ranking": 57,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4484,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#153d96",
+      "text": "#153d96"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "سلوفينيا",
+        "ru": "Словения"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Austria",
+    "slug": "austria",
+    "shortName": "Austria",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 48265,
+    "nameCode": "AUT",
+    "ranking": 25,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4718,
+    "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "النمسا",
+        "ru": "Австрия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "France",
+    "slug": "france",
+    "shortName": "France",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 617072,
+    "nameCode": "FRA",
+    "ranking": 2,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4481,
+    "teamColors": {
+      "primary": "#01509e",
+      "secondary": "#e30613",
+      "text": "#e30613"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "فرنسا",
+        "ru": "Франция"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "shortName": "Netherlands",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 324019,
+    "nameCode": "NED",
+    "ranking": 7,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4705,
+    "teamColors": {
+      "primary": "#ff6600",
+      "secondary": "#281fe0",
+      "text": "#281fe0"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "هولندا",
+        "ru": "Голландия (Нидерланды)"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Poland",
+    "slug": "poland",
+    "shortName": "Poland",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 176785,
+    "nameCode": "POL",
+    "ranking": 28,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4703,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#ff0000",
+      "text": "#ff0000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "بولندا",
+        "ru": "Польша"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Belgium",
+    "slug": "belgium",
+    "shortName": "Belgium",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 303113,
+    "nameCode": "BEL",
+    "ranking": 3,
+    "national": true,
+    "type": 0,
+    "id": 4717,
+    "teamColors": {
+      "primary": "#ff0033",
+      "secondary": "#000000",
+      "text": "#000000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "بلجيكا",
+        "ru": "Бельгия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Romania",
+    "slug": "romania",
+    "shortName": "Romania",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 40759,
+    "nameCode": "ROU",
+    "ranking": 46,
+    "national": true,
+    "type": 0,
+    "id": 4477,
+    "teamColors": {
+      "primary": "#f7bd00",
+      "secondary": "#ff0000",
+      "text": "#ff0000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "رومانيا",
+        "ru": "Румыния"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "shortName": "Slovakia",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 28484,
+    "nameCode": "SVK",
+    "ranking": 48,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4697,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#3333ff",
+      "text": "#3333ff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "سلوفاكيا",
+        "ru": "Словакия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "shortName": "Ukraine",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 60155,
+    "nameCode": "UKR",
+    "ranking": 22,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4701,
+    "teamColors": {
+      "primary": "#ffcc00",
+      "secondary": "#0033ff",
+      "text": "#0033ff"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "أوكرانيا",
+        "ru": "Украина"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Turkey",
+    "slug": "turkey",
+    "shortName": "Turkey",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 139514,
+    "nameCode": "TUR",
+    "ranking": 40,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4700,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#ff0000",
+      "text": "#ff0000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "تركيا",
+        "ru": "Турция"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "shortName": "Czech Republic",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 38003,
+    "nameCode": "CZE",
+    "ranking": 36,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4714,
+    "teamColors": {
+      "primary": "#cc0000",
+      "secondary": "#025095",
+      "text": "#025095"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "تشيك",
+        "ru": "Чехия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Portugal",
+    "slug": "portugal",
+    "shortName": "Portugal",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 687717,
+    "nameCode": "POR",
+    "ranking": 6,
+    "national": true,
+    "type": 0,
+    "id": 4704,
+    "teamColors": {
+      "primary": "#cc0000",
+      "secondary": "#66cc66",
+      "text": "#66cc66"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "البرتغال",
+        "ru": "Португалия"
+      },
+      "shortNameTranslation": {}
+    }
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "shortName": "Georgia",
+    "gender": "M",
+    "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+    },
+    "userCount": 28659,
+    "nameCode": "GEO",
+    "ranking": 75,
+    "disabled": false,
+    "national": true,
+    "type": 0,
+    "id": 4763,
+    "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#ff0000",
+      "text": "#ff0000"
+    },
+    "fieldTranslations": {
+      "nameTranslation": {
+        "ar": "جورجيا",
+        "ru": "Грузия"
+      },
+      "shortNameTranslation": {}
+    }
+  }
+]

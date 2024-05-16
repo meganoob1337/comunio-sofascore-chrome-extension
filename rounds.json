@@ -1,0 +1,1405 @@
+{
+    "standings": [
+        {
+            "tournament": {
+                "name": "UEFA Euro, Group A",
+                "slug": "uefa-euro-group-a",
+                "category": {
+                    "name": "Europe",
+                    "slug": "europe",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1465,
+                    "flag": "europe"
+                },
+                "uniqueTournament": {
+                    "name": "European Championship",
+                    "slug": "european-championship",
+                    "primaryColorHex": "#293cdb",
+                    "secondaryColorHex": "#00ba5d",
+                    "category": {
+                        "name": "Europe",
+                        "slug": "europe",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1465,
+                        "flag": "europe"
+                    },
+                    "userCount": 457156,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 1,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 669,
+                "isGroup": true,
+                "groupName": "Group A",
+                "isLive": false,
+                "id": 1688
+            },
+            "type": "total",
+            "name": "UEFA Euro 2024, Group A",
+            "descriptions": [],
+            "tieBreakingRule": {
+                "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:  1. Head-to-head games between the teams concerned   1a. Points total  1b. Goal difference  1c. Goals scored 2. Goal difference 3. Goals scored",
+                "id": 9
+            },
+            "rows": [
+                {
+                    "team": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "shortName": "Germany",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 455813,
+                        "nameCode": "GER",
+                        "ranking": 16,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4711,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0623\u0644\u0645\u0627\u0646\u064a\u0627",
+                                "ru": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 1,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975617,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Hungary",
+                        "slug": "hungary",
+                        "shortName": "Hungary",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 60485,
+                        "nameCode": "HUN",
+                        "ranking": 26,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4709,
+                        "teamColors": {
+                            "primary": "#c61e29",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0627\u0644\u0645\u062c\u0631",
+                                "ru": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 2,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975618,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Scotland",
+                        "slug": "scotland",
+                        "shortName": "Scotland",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 52160,
+                        "nameCode": "SCO",
+                        "ranking": 39,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4695,
+                        "teamColors": {
+                            "primary": "#00005e",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0625\u0633\u0643\u062a\u0644\u0646\u062f\u0627",
+                                "ru": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 3,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975619,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Switzerland",
+                        "slug": "switzerland",
+                        "shortName": "Switzerland",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 117556,
+                        "nameCode": "SUI",
+                        "ranking": 19,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4699,
+                        "teamColors": {
+                            "primary": "#ff0000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0633\u0648\u064a\u0633\u0631\u0627",
+                                "ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 4,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975620,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                }
+            ],
+            "id": 115333,
+            "updatedAtTimestamp": 1701695881
+        },
+        {
+            "tournament": {
+                "name": "UEFA Euro, Group B",
+                "slug": "uefa-euro-group-b",
+                "category": {
+                    "name": "Europe",
+                    "slug": "europe",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1465,
+                    "flag": "europe"
+                },
+                "uniqueTournament": {
+                    "name": "European Championship",
+                    "slug": "european-championship",
+                    "primaryColorHex": "#293cdb",
+                    "secondaryColorHex": "#00ba5d",
+                    "category": {
+                        "name": "Europe",
+                        "slug": "europe",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1465,
+                        "flag": "europe"
+                    },
+                    "userCount": 457156,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 1,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 668,
+                "isGroup": true,
+                "groupName": "Group B",
+                "isLive": false,
+                "id": 1685
+            },
+            "type": "total",
+            "name": "UEFA Euro 2024, Group B",
+            "descriptions": [],
+            "tieBreakingRule": {
+                "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:  1. Head-to-head games between the teams concerned   1a. Points total  1b. Goal difference  1c. Goals scored 2. Goal difference 3. Goals scored",
+                "id": 9
+            },
+            "rows": [
+                {
+                    "team": {
+                        "name": "Albania",
+                        "slug": "albania",
+                        "shortName": "Albania",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 36282,
+                        "nameCode": "ALB",
+                        "ranking": 66,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4690,
+                        "teamColors": {
+                            "primary": "#e41e20",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0623\u0644\u0628\u0627\u0646\u064a\u0627",
+                                "ru": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 1,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975621,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Croatia",
+                        "slug": "croatia",
+                        "shortName": "Croatia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 336302,
+                        "nameCode": "CRO",
+                        "ranking": 10,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4715,
+                        "teamColors": {
+                            "primary": "#ff0000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0643\u0631\u0648\u0627\u062a\u064a\u0627",
+                                "ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 2,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975622,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "shortName": "Italy",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 447093,
+                        "nameCode": "ITA",
+                        "ranking": 9,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4707,
+                        "teamColors": {
+                            "primary": "#0066ff",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0625\u064a\u0637\u0627\u0644\u064a\u0627",
+                                "ru": "\u0418\u0442\u0430\u043b\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 3,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975623,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "shortName": "Spain",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 549951,
+                        "nameCode": "ESP",
+                        "ranking": 8,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4698,
+                        "teamColors": {
+                            "primary": "#cc0000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0625\u0633\u0628\u0627\u0646\u064a\u0627",
+                                "ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 4,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975624,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                }
+            ],
+            "id": 115334,
+            "updatedAtTimestamp": 1701695881
+        },
+        {
+            "tournament": {
+                "name": "UEFA Euro, Group C",
+                "slug": "uefa-euro-group-c",
+                "category": {
+                    "name": "Europe",
+                    "slug": "europe",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1465,
+                    "flag": "europe"
+                },
+                "uniqueTournament": {
+                    "name": "European Championship",
+                    "slug": "european-championship",
+                    "primaryColorHex": "#293cdb",
+                    "secondaryColorHex": "#00ba5d",
+                    "category": {
+                        "name": "Europe",
+                        "slug": "europe",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1465,
+                        "flag": "europe"
+                    },
+                    "userCount": 457156,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 1,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 667,
+                "isGroup": true,
+                "groupName": "Group C",
+                "isLive": false,
+                "id": 1686
+            },
+            "type": "total",
+            "name": "UEFA Euro 2024, Group C",
+            "descriptions": [],
+            "tieBreakingRule": {
+                "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:  1. Head-to-head games between the teams concerned   1a. Points total  1b. Goal difference  1c. Goals scored 2. Goal difference 3. Goals scored",
+                "id": 9
+            },
+            "rows": [
+                {
+                    "team": {
+                        "name": "Denmark",
+                        "slug": "denmark",
+                        "shortName": "Denmark",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 116493,
+                        "nameCode": "DEN",
+                        "ranking": 21,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4476,
+                        "teamColors": {
+                            "primary": "#cc0000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0627\u0644\u062f\u0627\u0646\u0645\u0627\u0631\u0643",
+                                "ru": "\u0414\u0430\u043d\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 1,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975625,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "England",
+                        "slug": "england",
+                        "shortName": "England",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 560725,
+                        "nameCode": "ENG",
+                        "ranking": 4,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4713,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#cc0000",
+                            "text": "#cc0000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627",
+                                "ru": "\u0410\u043d\u0433\u043b\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 2,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975626,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Serbia",
+                        "slug": "serbia",
+                        "shortName": "Serbia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 137154,
+                        "nameCode": "SRB",
+                        "ranking": 33,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 6355,
+                        "teamColors": {
+                            "primary": "#ff0033",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0635\u0631\u0628\u064a\u0627",
+                                "ru": "\u0421\u0435\u0440\u0431\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 3,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975627,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Slovenia",
+                        "slug": "slovenia",
+                        "shortName": "Slovenia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 29084,
+                        "nameCode": "SLO",
+                        "ranking": 57,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4484,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#153d96",
+                            "text": "#153d96"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627",
+                                "ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 4,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "id": 975628,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                }
+            ],
+            "id": 115335,
+            "updatedAtTimestamp": 1701695881
+        },
+        {
+            "tournament": {
+                "name": "UEFA Euro, Group D",
+                "slug": "uefa-euro-group-d",
+                "category": {
+                    "name": "Europe",
+                    "slug": "europe",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1465,
+                    "flag": "europe"
+                },
+                "uniqueTournament": {
+                    "name": "European Championship",
+                    "slug": "european-championship",
+                    "primaryColorHex": "#293cdb",
+                    "secondaryColorHex": "#00ba5d",
+                    "category": {
+                        "name": "Europe",
+                        "slug": "europe",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1465,
+                        "flag": "europe"
+                    },
+                    "userCount": 457156,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 1,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 666,
+                "isGroup": true,
+                "groupName": "Group D",
+                "isLive": false,
+                "id": 1687
+            },
+            "type": "total",
+            "name": "UEFA Euro 2024, Group D",
+            "descriptions": [],
+            "tieBreakingRule": {
+                "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:  1. Head-to-head games between the teams concerned   1a. Points total  1b. Goal difference  1c. Goals scored 2. Goal difference 3. Goals scored",
+                "id": 9
+            },
+            "rows": [
+                {
+                    "team": {
+                        "name": "Austria",
+                        "slug": "austria",
+                        "shortName": "Austria",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 48265,
+                        "nameCode": "AUT",
+                        "ranking": 25,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4718,
+                        "teamColors": {
+                            "primary": "#ff0000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0627\u0644\u0646\u0645\u0633\u0627",
+                                "ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 1,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975629,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "France",
+                        "slug": "france",
+                        "shortName": "France",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 617072,
+                        "nameCode": "FRA",
+                        "ranking": 2,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4481,
+                        "teamColors": {
+                            "primary": "#01509e",
+                            "secondary": "#e30613",
+                            "text": "#e30613"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0641\u0631\u0646\u0633\u0627",
+                                "ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 2,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975630,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Netherlands",
+                        "slug": "netherlands",
+                        "shortName": "Netherlands",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 324019,
+                        "nameCode": "NED",
+                        "ranking": 7,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4705,
+                        "teamColors": {
+                            "primary": "#ff6600",
+                            "secondary": "#281fe0",
+                            "text": "#281fe0"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0647\u0648\u0644\u0646\u062f\u0627",
+                                "ru": "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f (\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b)"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 3,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975631,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Poland",
+                        "slug": "poland",
+                        "shortName": "Poland",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 176785,
+                        "nameCode": "POL",
+                        "ranking": 28,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4703,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#ff0000",
+                            "text": "#ff0000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0628\u0648\u0644\u0646\u062f\u0627",
+                                "ru": "\u041f\u043e\u043b\u044c\u0448\u0430"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 4,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 1050988,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                }
+            ],
+            "id": 115336,
+            "updatedAtTimestamp": 1701695881
+        },
+        {
+            "tournament": {
+                "name": "UEFA Euro, Group E",
+                "slug": "uefa-euro-group-e",
+                "category": {
+                    "name": "Europe",
+                    "slug": "europe",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1465,
+                    "flag": "europe"
+                },
+                "uniqueTournament": {
+                    "name": "European Championship",
+                    "slug": "european-championship",
+                    "primaryColorHex": "#293cdb",
+                    "secondaryColorHex": "#00ba5d",
+                    "category": {
+                        "name": "Europe",
+                        "slug": "europe",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1465,
+                        "flag": "europe"
+                    },
+                    "userCount": 457156,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 1,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 665,
+                "isGroup": true,
+                "groupName": "Group E",
+                "isLive": false,
+                "id": 50059
+            },
+            "type": "total",
+            "name": "UEFA Euro 2024, Group E",
+            "descriptions": [],
+            "tieBreakingRule": {
+                "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:  1. Head-to-head games between the teams concerned   1a. Points total  1b. Goal difference  1c. Goals scored 2. Goal difference 3. Goals scored",
+                "id": 9
+            },
+            "rows": [
+                {
+                    "team": {
+                        "name": "Belgium",
+                        "slug": "belgium",
+                        "shortName": "Belgium",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 303113,
+                        "nameCode": "BEL",
+                        "ranking": 3,
+                        "national": true,
+                        "type": 0,
+                        "id": 4717,
+                        "teamColors": {
+                            "primary": "#ff0033",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0628\u0644\u062c\u064a\u0643\u0627",
+                                "ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 1,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975633,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Romania",
+                        "slug": "romania",
+                        "shortName": "Romania",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 40759,
+                        "nameCode": "ROU",
+                        "ranking": 46,
+                        "national": true,
+                        "type": 0,
+                        "id": 4477,
+                        "teamColors": {
+                            "primary": "#f7bd00",
+                            "secondary": "#ff0000",
+                            "text": "#ff0000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0631\u0648\u0645\u0627\u0646\u064a\u0627",
+                                "ru": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 2,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975635,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Slovakia",
+                        "slug": "slovakia",
+                        "shortName": "Slovakia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 28484,
+                        "nameCode": "SVK",
+                        "ranking": 48,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4697,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#3333ff",
+                            "text": "#3333ff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0633\u0644\u0648\u0641\u0627\u0643\u064a\u0627",
+                                "ru": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 3,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975636,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Ukraine",
+                        "slug": "ukraine",
+                        "shortName": "Ukraine",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 60155,
+                        "nameCode": "UKR",
+                        "ranking": 22,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4701,
+                        "teamColors": {
+                            "primary": "#ffcc00",
+                            "secondary": "#0033ff",
+                            "text": "#0033ff"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627",
+                                "ru": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 4,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 1050946,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                }
+            ],
+            "id": 115337,
+            "updatedAtTimestamp": 1701695881
+        },
+        {
+            "tournament": {
+                "name": "UEFA Euro, Group F",
+                "slug": "uefa-euro-group-f",
+                "category": {
+                    "name": "Europe",
+                    "slug": "europe",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1465,
+                    "flag": "europe"
+                },
+                "uniqueTournament": {
+                    "name": "European Championship",
+                    "slug": "european-championship",
+                    "primaryColorHex": "#293cdb",
+                    "secondaryColorHex": "#00ba5d",
+                    "category": {
+                        "name": "Europe",
+                        "slug": "europe",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1465,
+                        "flag": "europe"
+                    },
+                    "userCount": 457156,
+                    "hasPerformanceGraphFeature": false,
+                    "id": 1,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 664,
+                "isGroup": true,
+                "groupName": "Group F",
+                "isLive": false,
+                "id": 50060
+            },
+            "type": "total",
+            "name": "UEFA Euro 2024, Group F",
+            "descriptions": [],
+            "tieBreakingRule": {
+                "text": "In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:  1. Head-to-head games between the teams concerned   1a. Points total  1b. Goal difference  1c. Goals scored 2. Goal difference 3. Goals scored",
+                "id": 9
+            },
+            "rows": [
+                {
+                    "team": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "shortName": "Turkey",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 139514,
+                        "nameCode": "TUR",
+                        "ranking": 40,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4700,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#ff0000",
+                            "text": "#ff0000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u062a\u0631\u0643\u064a\u0627",
+                                "ru": "\u0422\u0443\u0440\u0446\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 1,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975640,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Czech Republic",
+                        "slug": "czech-republic",
+                        "shortName": "Czech Republic",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 38003,
+                        "nameCode": "CZE",
+                        "ranking": 36,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4714,
+                        "teamColors": {
+                            "primary": "#cc0000",
+                            "secondary": "#025095",
+                            "text": "#025095"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u062a\u0634\u064a\u0643",
+                                "ru": "\u0427\u0435\u0445\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Playoffs",
+                        "id": 6
+                    },
+                    "position": 2,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975637,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Portugal",
+                        "slug": "portugal",
+                        "shortName": "Portugal",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 687717,
+                        "nameCode": "POR",
+                        "ranking": 6,
+                        "national": true,
+                        "type": 0,
+                        "id": 4704,
+                        "teamColors": {
+                            "primary": "#cc0000",
+                            "secondary": "#66cc66",
+                            "text": "#66cc66"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644",
+                                "ru": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 3,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 975639,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                },
+                {
+                    "team": {
+                        "name": "Georgia",
+                        "slug": "georgia",
+                        "shortName": "Georgia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 28659,
+                        "nameCode": "GEO",
+                        "ranking": 75,
+                        "disabled": false,
+                        "national": true,
+                        "type": 0,
+                        "id": 4763,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#ff0000",
+                            "text": "#ff0000"
+                        },
+                        "fieldTranslations": {
+                            "nameTranslation": {
+                                "ar": "\u062c\u0648\u0631\u062c\u064a\u0627",
+                                "ru": "\u0413\u0440\u0443\u0437\u0438\u044f"
+                            },
+                            "shortNameTranslation": {}
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 4,
+                    "matches": 0,
+                    "wins": 0,
+                    "scoresFor": 0,
+                    "scoresAgainst": 0,
+                    "secondaryScoresFor": 0,
+                    "secondaryScoresAgainst": 0,
+                    "id": 1050844,
+                    "losses": 0,
+                    "draws": 0,
+                    "points": 0
+                }
+            ],
+            "id": 115338,
+            "updatedAtTimestamp": 1701695881
+        }
+    ]
+}
